@@ -3,6 +3,7 @@
 About Me
 ------------------------------------------------------------------------
 😄 Pronouns: She/Her
+
 🌱 I’m currently learning attending ADA Developer Academy
 
 🏫 Ada Developers Academy is a selective training and internship program for women, non-binary and gender diverse individuals to break into the tech sector. The application process, which spanned several months, included an initial application which included essays and a data analysis challenge, a time-boxed scripting challenge in Python, a code review/technical interview, and a final panel interview. 
