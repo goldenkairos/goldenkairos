@@ -1,5 +1,7 @@
 ### Welcome to Minh's Github Page 👋
 
+ABOUT ME
+------------------------------------------------------------------------
 😄 Pronouns: She/Her
 🌱 I’m currently learning attending ADA Developer Academy
 
