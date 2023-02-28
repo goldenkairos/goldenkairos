@@ -8,7 +8,7 @@ About Me
 
 🏫 Ada Developers Academy is a selective training and internship program for women, non-binary and gender diverse individuals to break into the tech sector. The application process, which spanned several months, included an initial application which included essays and a data analysis challenge, a time-boxed scripting challenge in Python, a code review/technical interview, and a final panel interview. 
 
-📚 In the classroom portion of the year long program, students gain experience in 
+📚 In the classroom portion (6 months) of the program, students gain experience in 
   - Python, SQL, JavaScript, HTML/CSS and React ad Computer Science fundamentals
   - Agile development teams, using pair programming, scrum, and test-driven development.
   - Advocating for inclusivity and social justice in tech industry
