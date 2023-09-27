@@ -17,6 +17,14 @@
 
 ❤️ My passion lies in creating applications that tackle real-world issues and harnessing data for well-informed decision-making 
 
+<dl>
+  🚀 What did I do @ Microsoft internship? 
+   
+  <dd>✨ Implemented the user feedback feature 👍🏼 👎🏼 to the tab auto grouping feature on the Edge browser. Highly recommend checking out Edge and that feature!</dd>
+  <dd>✨ Solved over 20 bugs related to enhancing user experience related to tabs behaviors</dd>
+  <dd>✨ Created a histogram to measure UI performance</dd>
+</dl>
+
 🎮 I just completed building a new web based game. Check it out! [NomNom Matchup!](https://nomnom-matchup.netlify.app/)
 
 
