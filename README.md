@@ -1,9 +1,23 @@
-### Welcome to Minh's Github Page  👋
-🌱 I bring a blend of software engineering skills, particularly in web development, and data analyst to the table. My passion lies in creating applications that tackle real-world issues and harnessing data for well-informed decision-making. 
+<div id="header" align="center">
+   <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="150"/>
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/minhseikel/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://goldenkairos.github.io/personal_page/">
+    <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge" alt="Personal Portfolio"/>
+  </a>
+</div>
+</div>
+
+### ⭐️ Welcome to Minh's Github Page ⭐️
+🌱 I bring a blend of software engineering skills, particularly in web development, and data analyst to the table
+
+❤️ My passion lies in creating applications that tackle real-world issues and harnessing data for well-informed decision-making 
 
 🎮 I just completed building a new web based game. Check it out! [NomNom Matchup!](https://nomnom-matchup.netlify.app/)
 
-[![Grace Hopper Scholarship](https://img.shields.io/badge/Grace%20Hopper%20Scholarship-2023%20Recipient-purple?style=for-the-badge)](https://anitab.org/)
 ---
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,6 +48,14 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=goldenkairos&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<h3 align="left">Awards</h3>
+
+[![Grace Hopper Scholarship](https://img.shields.io/badge/Grace%20Hopper%20Scholarship-2023%20Recipient-purple?style=for-the-badge)](https://anitab.org/)
+
+[![Amazon Leadership Principle](https://img.shields.io/badge/2020-Insist%20on%20the%20Highest%20Standard-232F3E?style=for-the-badge&logo=amazon&logoColor=FF9900)](https://www.amazon.com)
+
+[![Amazon Leadership Principle](https://img.shields.io/badge/2021-Think%20Big-232F3E?style=for-the-badge&logo=amazon&logoColor=FF9900)](https://www.amazon.com)
 
 
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=goldenkairos&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goldenkairos&theme=merko)
