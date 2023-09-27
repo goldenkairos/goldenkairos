@@ -20,7 +20,7 @@
 <dl>
   🚀 What did I do @ Microsoft internship? 
    
-  <dd>✨ Implemented the user feedback feature 👍🏼 👎🏼 to the tab auto grouping feature on the Edge browser. Highly recommend checking out Edge and that feature!</dd>
+  <dd>✨ Implemented the user feedback feature 👍🏼 👎🏼 to the tab auto grouping feature on the Edge browser. Highly recommend check it out!</dd>
   <dd>✨ Solved over 20 bugs related to enhancing user experience related to tabs behaviors</dd>
   <dd>✨ Created a histogram to measure UI performance</dd>
 </dl>
