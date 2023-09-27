@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge" alt="Personal Portfolio"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=goldenkairos&style=flat-square&color=blue" alt=""/>
 </div>
 
 ### ⭐️ Welcome to Minh's Github Page ⭐️
@@ -18,11 +19,13 @@
 
 🎮 I just completed building a new web based game. Check it out! [NomNom Matchup!](https://nomnom-matchup.netlify.app/)
 
+
+
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack</h3>
 
-![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoWidth=10)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap)
@@ -38,13 +41,6 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-purple?style=for-the-badge&logo=heroku)
 ![Firebase](https://img.shields.io/badge/-Firebase-orange?style=for-the-badge&logo=firebase)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
-
----
-
-<h3 align="left">Get Connected</h3>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/minhseikel/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge)](https://goldenkairos.github.io/personal_page/)
 
 ---
 
