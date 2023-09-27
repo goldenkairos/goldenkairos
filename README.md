@@ -29,6 +29,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![Netlify](https://img.shields.io/badge/-Netlify-blue?style=for-the-badge&logo=netlify)
 
 ![Python](https://img.shields.io/badge/-Python-green?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
