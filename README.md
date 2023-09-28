@@ -33,23 +33,23 @@
 
 <h3 align="left">Tech Stack</h3>
 
-![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoWidth=10)
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap)
-![Netlify](https://img.shields.io/badge/-Netlify-blue?style=for-the-badge&logo=netlify)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap)
+![Netlify](https://img.shields.io/badge/-Netlify-blue?style=flat-square&logo=netlify)
 
-![Python](https://img.shields.io/badge/-Python-green?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
-![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-green?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c%2B%2B)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
 
-![Flask](https://img.shields.io/badge/-Flask-grey?style=for-the-badge&logo=flask)
-![SQL](https://img.shields.io/badge/-SQL-red?style=for-the-badge&logo=sql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![Heroku](https://img.shields.io/badge/-Heroku-purple?style=for-the-badge&logo=heroku)
-![Firebase](https://img.shields.io/badge/-Firebase-orange?style=for-the-badge&logo=firebase)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
+![Flask](https://img.shields.io/badge/-Flask-grey?style=flat-square&logo=flask)
+![SQL](https://img.shields.io/badge/-SQL-red?style=flat-square&logo=sql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql)
+![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku)
+![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=firebase)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 ---
 
