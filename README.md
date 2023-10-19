@@ -13,7 +13,7 @@
 </div>
 
 ### ⭐️ Welcome to Minh's Github Page ⭐️
-🌱 I bring a blend of software engineering skills, particularly in web development, and data analyst to the table
+🌱 I bring a blend of software engineering skills, particularly in web development and data analysis to the table
 
 ❤️ My passion lies in creating applications that tackle real-world issues and harnessing data for well-informed decision-making 
 
