@@ -63,5 +63,6 @@
 [![Amazon Leadership Principle](https://img.shields.io/badge/2021-Think%20Big-232F3E?style=for-the-badge&logo=amazon&logoColor=FF9900)](https://www.amazon.com)
 
 
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=goldenkairos&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goldenkairos&theme=merko)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=goldenkairos&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goldenkairos&theme=merko&langs_count=6&custom_title=Top%206)
+
