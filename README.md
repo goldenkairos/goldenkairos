@@ -17,9 +17,8 @@
 
 ❤️ My passion lies in creating applications that tackle real-world issues and harnessing data for well-informed decision-making 
 
+📈 Currently I am learning Java. You can check out my back-end project [SwapMeet](https://github.com/goldenkairos/swap-meet-java)
 <dl>
-  📈 Currently I am learning Java. You can check out my back-end project [SwapMeet!](https://github.com/goldenkairos/swap-meet-java)
-   
   🚀 What did I do @ Microsoft internship? 
    
   <dd>✨ Implemented the user feedback feature 👍🏼 👎🏼 to the tab auto grouping feature on the Edge browser. Highly recommend to check it out!</dd>
